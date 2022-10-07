@@ -1,4 +1,4 @@
-![logo](https://github.com/gdhokchaule/profile/blob/main/poster.png)
+![logo](https://github.com/gdhokchaule/gdhokchaule/blob/main/poster.png)
 <h1 align="center">Hi 👋, I'm GAURAV DHOKCHAULE</h1>
 <h3 align="center">A passionate FULL-STACK DEVELOPER</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
